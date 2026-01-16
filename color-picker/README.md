@@ -1,12 +1,24 @@
-The Color Picker App is a simple frontend application that allows users to select different colors RELATED BUTTONS and instantly view the selected color on the screen.
+# Color Picker App
+
+The Color Picker App is a simple frontend application that allows users to select different colors using buttons and instantly view the selected color on the screen.
 
 This project was built to practice HTML, CSS, and JavaScript fundamentals.
 
+## Features
+- Color selection using buttons  
+- Instant background color change  
+- Simple and clean UI  
+- Beginner-friendly project  
 
-What I Learned:
+## Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
 
-1.Handling click events in JavaScript
+## What I Learned
+- Handling click events in JavaScript  
+- Manipulating the DOM  
+- Updating styles dynamically using JavaScript  
 
-2.Manipulating the DOM
-
-3.Updating styles dynamically using JavaScript
+## Acknowledgement
+This project was created as part of my frontend learning and practice.
