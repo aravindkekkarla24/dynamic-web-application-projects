@@ -1,0 +1,25 @@
+.bg-container{
+    height:100vh;
+    
+    text-align:center;
+    margin-top:100px;
+}
+
+.heading{
+    font-family:"Roboto";
+    font-size:85px;
+}
+
+.para{
+    font-family:"Roboto"
+    font-weight: bold;
+    font-size:115px;
+}
+
+button{
+    height:40px;
+    width:120px;
+    border-radius:8px;
+    font-weight:bold;
+    font-family:"Roboto";
+}
