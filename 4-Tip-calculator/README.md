@@ -13,10 +13,9 @@ https://tipcounters.ccbp.tech/
 ## What I Learned
 
 * How to get input values using JavaScript
-* Converting string input values into numbers using parseFloat()
+* Converting string input values into numbers using parseInt()
 * Performing calculations based on user input
 * Updating DOM elements using textContent
-* Basic form validation using isNaN()
 
 ## Project Description
 
