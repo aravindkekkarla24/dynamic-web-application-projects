@@ -1,0 +1,20 @@
+.bg-container{
+    height:100vh;
+    text-align:center;
+    font-size:35px;
+}
+
+input{
+    width:350px;
+    height:25px;
+    border-width:1px;
+    border-radius:5px;
+    border-style:solid;
+
+
+}
+
+button{
+    width:120px:
+    height:20px;
+}
