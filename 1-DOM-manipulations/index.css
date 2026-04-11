@@ -1,0 +1,15 @@
+.bg-container{
+    text-align:center;
+    font-family:"Roboto";
+    font-size:50px;
+}
+
+
+.button-container{
+    height:50px;
+    width:140px;
+    font-family:"Roboto";
+    border-radius:12px;
+    font-weight:bold;
+    
+}
