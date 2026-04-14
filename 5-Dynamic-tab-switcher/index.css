@@ -1,0 +1,21 @@
+
+
+.tab-button{
+    width:150px;
+    margin-left:45px;
+    padding:8px;
+    border-radius:8px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+
+
+.tab-contenet{
+    font-family:"Roboto";
+    font-size:20px;
+}
+
+.hide-tab{
+    display:none;
+}
+
