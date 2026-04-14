@@ -1,0 +1,27 @@
+
+.main-heading{
+    font-family:"Roboto";
+    font-weight:400;
+    font-size:125px;
+}
+
+.input-box{
+    width:450px;
+    height:30px;
+    padding:15px;
+}
+
+.button{
+    height:35px;
+    width:100px;
+
+    background-color:lightblue;
+    border-radius:8px;
+}
+
+.item-container{
+    font-size:25px;
+    padding:25px;
+    
+    margin:15px;
+}
