@@ -1,0 +1,20 @@
+.main-heading{
+    color:red;
+    font-family:"Roboto";
+    font-size:75px;
+    font-style:italic;
+
+}
+
+.list-container{
+    background-color:darkblue;
+    
+    padding:45px;
+
+}
+
+.Ingredients-heading{
+    font-weight:200;
+    font-family:"Roboto";
+    color:gold;
+}
