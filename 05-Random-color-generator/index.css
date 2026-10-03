@@ -1,0 +1,28 @@
+.bg-container{
+    height:100vh;
+    width:100vw;
+    text-align:center;
+    border:3px solid black;
+    border-radius:12px;
+
+}
+
+.text-containe{
+    height:40%;
+}
+
+button{
+    height:30px;
+    width:125px;
+    border:2px solid blue;
+    border-radius:5px;
+    color:black;
+    background-color:aqua;
+    font-weight:bold;
+    font-family:'Roboto';
+}
+
+.card-container{
+    height:60%;
+    margin:45px;
+}

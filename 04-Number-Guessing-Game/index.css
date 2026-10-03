@@ -1,0 +1,24 @@
+.bg-container{
+    height:100vh;
+    width:100vw;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(185, 192, 210);
+}
+
+
+.card-container{
+    height:80%;
+    width:80%;
+    background-color:rgb(134, 159, 227);
+    box-shadow:5px 5px 8px grey;
+
+    border-radius:15px;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
